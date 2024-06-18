@@ -2,6 +2,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/hiteshpatil237)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hitesh-sudam-patil/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hiteshpatil237@gmail.com)
+![](https://komarev.com/ghpvc/?username=hiteshpatil237&color=blue&style=flat-square&label=Profile+visitors)
 
 Experienced AI professional from :india: with a strong passion for leveraging advanced technologies such as NLP, Machine Learning, and Large Language Models (LLMs) to tackle real-world challenges.
 
